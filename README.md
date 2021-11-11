@@ -2,7 +2,8 @@
 Integrantes:
 - Gutiérrez Tinoco Saúl Adaí
 - Cruz Cantero Christian
-Para inicializar un nuevo proyecto:
+
+Indicaciones para inicializar un nuevo proyecto:
 - Descargar e instalar Node.js desde su pagina oficial.
 - Configurar variables de entorno, para que los comandos Node sean reconocidos desde cualquier parte del sistema.
 - Ejecutar el simbolo del sistema.
