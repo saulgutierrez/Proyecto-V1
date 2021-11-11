@@ -1,4 +1,7 @@
 # Proyecto-V1
+Integrantes:
+- Gutiérrez Tinoco Saúl Adaí
+- Cruz Cantero Christian
 Para inicializar un nuevo proyecto:
 - Descargar e instalar Node.js desde su pagina oficial.
 - Configurar variables de entorno, para que los comandos Node sean reconocidos desde cualquier parte del sistema.
